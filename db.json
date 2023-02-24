@@ -1,19 +1,31 @@
 {
-  "users": [
+  "posts": [
     {
       "id": 1,
-      "userId": 101,
-      "name": "Alice"
+      "title": "Post 1"
     },
     {
       "id": 2,
-      "userId": 102,
-      "name": "Bob"
+      "title": "Post 2"
     },
     {
       "id": 3,
-      "userId": 103,
-      "name": "Carol"
+      "title": "Post 3"
     }
-  ]
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
