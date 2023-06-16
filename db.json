@@ -15,28 +15,32 @@
   ],
   "accounts" : [
   {
-        "accountID": "1",
-        "examimage": "https://az400hpstorcloudshell.blob.core.windows.net/images/AZ-104.jpg",
-        "coursename": "AZ-104 Azure Administrator",
-        "rating": 4.5
+        "accountID": "1001",
+        "accountType": "CC",
+        "availableCredit": 1000,
+        "currentBalance": 500,
+        "status" : "A"
     },
     {
-        "accountID": "2",
-        "examimage": "https://az400hpstorcloudshell.blob.core.windows.net/images/AZ-204.jpg",
-        "coursename": "AZ-204 Azure Developer",
-        "rating": 4.6
+        "accountID": "1002",
+        "accountType": "SB",
+        "availableCredit": 1000,
+        "currentBalance": 500,
+        "status" : "A"
     },
     {
-        "accountID": "3",
-        "examimage": "https://az400hpstorcloudshell.blob.core.windows.net/images/AZ-400.jpg",
-        "coursename": "AZ-400 Azure DevOps",
-        "rating": 4.7
+        "accountID": "1003",
+        "accountType": "CC",
+        "availableCredit": 1000,
+        "currentBalance": 500,
+        "status" : "A"
     },
     {
-        "accountID": "4",
-        "examimage": "https://az400hpstorcloudshell.blob.core.windows.net/images/AZ-305.jpg",
-        "coursename": "AZ-305 Azure Architect",
-        "rating": 4.8
+        "accountID": "1004",
+        "accountType": "MM",
+        "availableCredit": 1000,
+        "currentBalance": 500,
+        "status" : "A"
     }
   ],
   "trans": [
