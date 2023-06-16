@@ -13,7 +13,7 @@
       "title": "Post 3 title"
     }
   ],
-  "courses" : [
+  "accounts" : [
   {
         "id": "1",
         "examimage": "https://az400hpstorcloudshell.blob.core.windows.net/images/AZ-104.jpg",
