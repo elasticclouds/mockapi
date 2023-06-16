@@ -46,13 +46,20 @@
   "trans": [
     {
       "transactionID": "10001",
-      "body": "some comment 1",
-      "postId": 1
+      "category": "Shopping",
+      "subCategory": "Grocery",
+      "reference": "BestBuy",
+      "amount": 10,
+      "status": "A"
     },
     {
       "transactionID": "10001",
-      "body": "some comment 2",
-      "postId": 1
+      "category": "Shopping",
+      "subCategory": "Grocery",
+      "reference": "BestBuy",
+      "amount": 10,
+      "status": "A"
+
     }
   ],
   "profile": {
