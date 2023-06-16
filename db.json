@@ -16,6 +16,7 @@
   "accounts" : [
   {
         "accountID": "1001",
+         "description" : "Credit Card",
         "accountType": "CC",
         "availableCredit": 1000,
         "currentBalance": 500,
@@ -23,6 +24,7 @@
     },
     {
         "accountID": "1002",
+         "description" : "Savings",
         "accountType": "SB",
         "availableCredit": 1000,
         "currentBalance": 500,
@@ -30,6 +32,7 @@
     },
     {
         "accountID": "1003",
+         "description" : "Credit Card",
         "accountType": "CC",
         "availableCredit": 1000,
         "currentBalance": 500,
@@ -38,6 +41,7 @@
     {
         "accountID": "1004",
         "accountType": "MM",
+         "description" : "Money Market",
         "availableCredit": 1000,
         "currentBalance": 500,
         "status" : "A"
