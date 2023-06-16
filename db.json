@@ -45,12 +45,12 @@
   ],
   "trans": [
     {
-      "id": 1,
+      "transactionID": "10001",
       "body": "some comment 1",
       "postId": 1
     },
     {
-      "id": 2,
+      "transactionID": "10001",
       "body": "some comment 2",
       "postId": 1
     }
