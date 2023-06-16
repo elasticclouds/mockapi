@@ -1,32 +1,4 @@
 {
-  "accounts": [
-    {
-      "id": 1,
-      "title": "Post 1 title2"
-    },
-    {
-      "id": 2,
-      "title": "Post 2 title"
-    },
-    {
-      "id": 3,
-      "title": "Post 3 title"
-    }
-  ],
-  "trans": [
-    {
-      "id": 1,
-      "title": "Post 1 title1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2 title"
-    },
-    {
-      "id": 3,
-      "title": "Post 3 title"
-    }
-  ],
   "posts": [
     {
       "id": 1,
