@@ -50,6 +50,7 @@
   "trans": [
     {
       "transactionID": "10001",
+      "description" : "Credit Card",
        "accountID": "1001",      
       "category": "Shopping",
       "subCategory": "Grocery",
@@ -58,7 +59,8 @@
       "status": "A"
     },
     {
-      "transactionID": "10001",
+      "transactionID": "10002",
+      "description" : "Credit Card",
       "accountID": "1003",
       "category": "Shopping",
       "subCategory": "Grocery",
